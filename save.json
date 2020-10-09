@@ -1,0 +1,23 @@
+{
+	"resolution": [50, 50],
+
+	"camera": {
+		"coordinates": [0, 0, 0],
+		"h-v-a": 90,
+		"v-v-a": 90,
+		"h-r": 0
+	},
+
+	"objects": [
+		{
+			"coordinates": [7, 0, 0],
+			"radius": 3,
+			"color": [255, 0, 0]
+		},
+		{
+			"coordinates": [5, 3, 5],
+			"radius": 5,
+			"color": [0, 0, 255]
+		}
+	]
+}
